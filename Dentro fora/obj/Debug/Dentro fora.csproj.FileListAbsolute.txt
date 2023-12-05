@@ -1,0 +1,6 @@
+C:\temp\ws-vs2019\Dentro fora\Dentro fora\bin\Debug\Dentro fora.exe.config
+C:\temp\ws-vs2019\Dentro fora\Dentro fora\bin\Debug\Dentro fora.exe
+C:\temp\ws-vs2019\Dentro fora\Dentro fora\bin\Debug\Dentro fora.pdb
+C:\temp\ws-vs2019\Dentro fora\Dentro fora\obj\Debug\Dentro fora.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Dentro fora\Dentro fora\obj\Debug\Dentro fora.exe
+C:\temp\ws-vs2019\Dentro fora\Dentro fora\obj\Debug\Dentro fora.pdb
